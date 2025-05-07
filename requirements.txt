@@ -1,8 +1,7 @@
-streamlit
-scikit-learn
+streamlit==1.45.0
+scikit-learn==1.6.1
 pandas
 numpy
 joblib
 plotly
 transformers
-torch
